@@ -5,7 +5,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-import com.edureka.project.genericLib.*;
 import com.edureka.project.ObjectRepo.BookAFlight;
 import com.edureka.project.ObjectRepo.CruisesPage;
 import com.edureka.project.ObjectRepo.FindAFlightPage;

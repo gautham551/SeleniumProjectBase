@@ -6,8 +6,9 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.edureeka.project.Credentials.RegisterCredentials;
 import com.edureka.project.genericLib.BaseClass;
+
+
 
 /**
  * 
@@ -154,7 +155,7 @@ public class RegisterPage extends BaseClass {
      * To Register new user
      */
     public void registerNewUser() {
-        Logger log = Logger.getLogger(RegisterCredentials.class);
+        Logger log = Logger.getLogger(RegisterPage.class);
         RegisterPage reg = PageFactory.initElements(driver, RegisterPage.class);
         log.info("Step 1: Register user page is displayed.");
         // Step 2: Enter Contact Information

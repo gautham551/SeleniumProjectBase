@@ -1,99 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="79692" started-at="2019-12-06T12:39:06Z" finished-at="2019-12-06T12:40:26Z">
+  <suite name="Default suite" duration-ms="57397" started-at="2020-03-12T13:14:26Z" finished-at="2020-03-12T13:15:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="79692" started-at="2019-12-06T12:39:06Z" finished-at="2019-12-06T12:40:26Z">
-      <class name="com.edureeka.project.Credentials.RegisterCredentials">
-        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:com.edureeka.project.Credentials.RegisterCredentials@3701eaf6]" name="launchSelectBrowser" is-config="true" duration-ms="4262" started-at="2019-12-06T12:40:06Z" finished-at="2019-12-06T12:40:10Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchSelectBrowser -->
-        <test-method status="PASS" signature="loginTo()[pri:0, instance:com.edureeka.project.Credentials.RegisterCredentials@3701eaf6]" name="loginTo" is-config="true" duration-ms="7349" started-at="2019-12-06T12:40:10Z" finished-at="2019-12-06T12:40:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTo -->
-        <test-method status="PASS" signature="registerUser()[pri:0, instance:com.edureeka.project.Credentials.RegisterCredentials@3701eaf6]" name="registerUser" duration-ms="8193" started-at="2019-12-06T12:40:17Z" finished-at="2019-12-06T12:40:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registerUser -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.edureeka.project.Credentials.RegisterCredentials@3701eaf6]" name="logout" is-config="true" duration-ms="0" started-at="2019-12-06T12:40:26Z" finished-at="2019-12-06T12:40:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.edureeka.project.Credentials.RegisterCredentials@3701eaf6]" name="closeBrowser" is-config="true" duration-ms="256" started-at="2019-12-06T12:40:26Z" finished-at="2019-12-06T12:40:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.edureeka.project.Credentials.RegisterCredentials -->
+    <test name="Default test" duration-ms="57397" started-at="2020-03-12T13:14:26Z" finished-at="2020-03-12T13:15:23Z">
       <class name="com.edureka.project.BookTicket.BookReturnCruiseTicket">
-        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@610694f1]" name="launchSelectBrowser" is-config="true" duration-ms="5294" started-at="2019-12-06T12:39:06Z" finished-at="2019-12-06T12:39:11Z">
+        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@5bc79255]" name="launchSelectBrowser" is-config="true" duration-ms="6220" started-at="2020-03-12T13:14:26Z" finished-at="2020-03-12T13:14:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchSelectBrowser -->
-        <test-method status="PASS" signature="loginTo()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@610694f1]" name="loginTo" is-config="true" duration-ms="7257" started-at="2019-12-06T12:39:11Z" finished-at="2019-12-06T12:39:19Z">
+        <test-method status="PASS" signature="loginTo()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@5bc79255]" name="loginTo" is-config="true" duration-ms="17308" started-at="2020-03-12T13:14:32Z" finished-at="2020-03-12T13:14:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTo -->
-        <test-method status="PASS" signature="BookReturnTicketTest()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@610694f1]" name="BookReturnTicketTest" duration-ms="12332" started-at="2019-12-06T12:39:19Z" finished-at="2019-12-06T12:39:31Z">
+        <test-method status="PASS" signature="BookReturnTicketTest()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@5bc79255]" name="BookReturnTicketTest" duration-ms="32720" started-at="2020-03-12T13:14:49Z" finished-at="2020-03-12T13:15:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BookReturnTicketTest -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@610694f1]" name="logout" is-config="true" duration-ms="0" started-at="2019-12-06T12:39:31Z" finished-at="2019-12-06T12:39:31Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@5bc79255]" name="close" is-config="true" duration-ms="1097" started-at="2020-03-12T13:15:22Z" finished-at="2020-03-12T13:15:23Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.edureka.project.BookTicket.BookReturnCruiseTicket@610694f1]" name="closeBrowser" is-config="true" duration-ms="301" started-at="2019-12-06T12:39:31Z" finished-at="2019-12-06T12:39:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
+        </test-method> <!-- close -->
       </class> <!-- com.edureka.project.BookTicket.BookReturnCruiseTicket -->
-      <class name="com.edureeka.project.Credentials.ValidateCredentialsTest">
-        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:com.edureeka.project.Credentials.ValidateCredentialsTest@5c5a1b69]" name="launchSelectBrowser" is-config="true" duration-ms="4291" started-at="2019-12-06T12:39:52Z" finished-at="2019-12-06T12:39:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchSelectBrowser -->
-        <test-method status="PASS" signature="loginTo()[pri:0, instance:com.edureeka.project.Credentials.ValidateCredentialsTest@5c5a1b69]" name="loginTo" is-config="true" duration-ms="7169" started-at="2019-12-06T12:39:56Z" finished-at="2019-12-06T12:40:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTo -->
-        <test-method status="PASS" signature="validcredentialTest()[pri:0, instance:com.edureeka.project.Credentials.ValidateCredentialsTest@5c5a1b69]" name="validcredentialTest" duration-ms="45" started-at="2019-12-06T12:40:03Z" finished-at="2019-12-06T12:40:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validcredentialTest -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.edureeka.project.Credentials.ValidateCredentialsTest@5c5a1b69]" name="logout" is-config="true" duration-ms="0" started-at="2019-12-06T12:40:03Z" finished-at="2019-12-06T12:40:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.edureeka.project.Credentials.ValidateCredentialsTest@5c5a1b69]" name="closeBrowser" is-config="true" duration-ms="2463" started-at="2019-12-06T12:40:03Z" finished-at="2019-12-06T12:40:06Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.edureeka.project.Credentials.ValidateCredentialsTest -->
-      <class name="com.edureka.project.BookTicket.BookReturnFlightTicketTest">
-        <test-method status="PASS" signature="launchSelectBrowser()[pri:0, instance:com.edureka.project.BookTicket.BookReturnFlightTicketTest@43814d18]" name="launchSelectBrowser" is-config="true" duration-ms="3773" started-at="2019-12-06T12:39:31Z" finished-at="2019-12-06T12:39:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchSelectBrowser -->
-        <test-method status="PASS" signature="loginTo()[pri:0, instance:com.edureka.project.BookTicket.BookReturnFlightTicketTest@43814d18]" name="loginTo" is-config="true" duration-ms="6974" started-at="2019-12-06T12:39:35Z" finished-at="2019-12-06T12:39:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTo -->
-        <test-method status="PASS" signature="BookReturnTicketTest()[pri:0, instance:com.edureka.project.BookTicket.BookReturnFlightTicketTest@43814d18]" name="BookReturnTicketTest" duration-ms="9252" started-at="2019-12-06T12:39:42Z" finished-at="2019-12-06T12:39:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- BookReturnTicketTest -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.edureka.project.BookTicket.BookReturnFlightTicketTest@43814d18]" name="logout" is-config="true" duration-ms="1" started-at="2019-12-06T12:39:51Z" finished-at="2019-12-06T12:39:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.edureka.project.BookTicket.BookReturnFlightTicketTest@43814d18]" name="closeBrowser" is-config="true" duration-ms="430" started-at="2019-12-06T12:39:51Z" finished-at="2019-12-06T12:39:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.edureka.project.BookTicket.BookReturnFlightTicketTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

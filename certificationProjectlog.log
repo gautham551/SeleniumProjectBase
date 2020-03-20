@@ -1,62 +1,21 @@
-2019-12-06 18:09:11,915  INFO [main] BaseClass:51 - *****************Test Case Started***********************
- 2019-12-06 18:09:19,203  INFO [main] BookReturnCruiseTicket:28 - Step 1 - Clicked on Cruise Link
- 2019-12-06 18:09:21,050  INFO [main] BookReturnCruiseTicket:30 - Step 2 - Click on Reservations of cruise Img
- 2019-12-06 18:09:22,185  INFO [main] BookReturnCruiseTicket:32 - Step 3 - Assert if opened pageTitle is correct
- 2019-12-06 18:09:22,208  INFO [main] BookReturnCruiseTicket:39 - Find a Flight: Mercury Tours: page is dispayed
- 2019-12-06 18:09:22,209  INFO [main] BookReturnCruiseTicket:44 - Step 4-Check of the RoundTrip Radio button is selected
- 2019-12-06 18:09:22,289  INFO [main] FindAFlightPage:113 - Selecting the Flight Details
- 2019-12-06 18:09:25,258  INFO [main] FindAFlightPage:142 - Selecting the Preferences inclass com.edureka.project.ObjectRepo.FindAFlightPage
- 2019-12-06 18:09:25,465  INFO [main] FindAFlightPage:155 - Clicking on Continue in Find a Flight page
- 2019-12-06 18:09:27,111  INFO [main] BookReturnCruiseTicket:56 - Clicking on Continue in Select a Flight page
- 2019-12-06 18:09:27,122  INFO [main] SelectAFlight:30 - Selected the flight
- 2019-12-06 18:09:28,833  INFO [main] BookReturnCruiseTicket:62 - Asserting Book a Flight Title
- 2019-12-06 18:09:28,847  INFO [main] BookReturnCruiseTicket:67 - Book a Flight: Mercury Toursis matching
- 2019-12-06 18:09:28,848  INFO [main] BookAFlight:61 - Enter First Name
- 2019-12-06 18:09:29,077  INFO [main] BookAFlight:64 - Enter Last Name
- 2019-12-06 18:09:29,230  INFO [main] BookAFlight:67 - Enter Card Number
- 2019-12-06 18:09:29,528  INFO [main] BookAFlight:70 - Click on Secure Purchase
- 2019-12-06 18:09:31,416  INFO [main] BookReturnCruiseTicket:69 - Confirm if ticket is booked
- 2019-12-06 18:09:31,502  INFO [main] BookReturnCruiseTicket:74 - Your itinerary has been booked!
- 2019-12-06 18:09:31,811  INFO [main] BaseClass:77 - *****************Test Case Executed***********************
- 2019-12-06 18:09:35,588  INFO [main] BaseClass:51 - *****************Test Case Started***********************
- 2019-12-06 18:09:42,566  INFO [main] BookReturnFlightTicketTest:25 - Step 1 - Assert if opened pageTitle is correct
- 2019-12-06 18:09:42,592  INFO [main] BookReturnFlightTicketTest:32 - Find a Flight: Mercury Tours: page is dispayed
- 2019-12-06 18:09:42,592  INFO [main] BookReturnFlightTicketTest:37 - Check of the RoundTrip Radio button is selected
- 2019-12-06 18:09:42,718  INFO [main] FindAFlightPage:113 - Selecting the Flight Details
- 2019-12-06 18:09:45,479  INFO [main] FindAFlightPage:142 - Selecting the Preferences inclass com.edureka.project.ObjectRepo.FindAFlightPage
- 2019-12-06 18:09:45,811  INFO [main] FindAFlightPage:155 - Clicking on Continue in Find a Flight page
- 2019-12-06 18:09:47,515  INFO [main] BookReturnFlightTicketTest:48 - Clicking on Continue in Select a Flight page
- 2019-12-06 18:09:47,529  INFO [main] SelectAFlight:30 - Selected the flight
- 2019-12-06 18:09:49,222  INFO [main] BookReturnFlightTicketTest:54 - Asserting Book a Flight Title
- 2019-12-06 18:09:49,234  INFO [main] BookReturnFlightTicketTest:59 - Book a Flight: Mercury Toursis matching
- 2019-12-06 18:09:49,235  INFO [main] BookAFlight:61 - Enter First Name
- 2019-12-06 18:09:49,559  INFO [main] BookAFlight:64 - Enter Last Name
- 2019-12-06 18:09:49,768  INFO [main] BookAFlight:67 - Enter Card Number
- 2019-12-06 18:09:50,283  INFO [main] BookAFlight:70 - Click on Secure Purchase
- 2019-12-06 18:09:51,752  INFO [main] BookReturnFlightTicketTest:61 - Confirm if ticket is booked
- 2019-12-06 18:09:51,814  INFO [main] BookReturnFlightTicketTest:66 - Your itinerary has been booked!
- 2019-12-06 18:09:52,246  INFO [main] BaseClass:77 - *****************Test Case Executed***********************
- 2019-12-06 18:09:56,538  INFO [main] BaseClass:51 - *****************Test Case Started***********************
- 2019-12-06 18:10:03,709 DEBUG [main] ValidateCredentialsTest:16 - Home Page is Displayed
- 2019-12-06 18:10:03,710  INFO [main] ValidateCredentialsTest:18 - Expected Tile was Find a Flight: Mercury Tours:
- 2019-12-06 18:10:03,750  INFO [main] ValidateCredentialsTest:22 - Title is matching
- 2019-12-06 18:10:06,217  INFO [main] BaseClass:77 - *****************Test Case Executed***********************
- 2019-12-06 18:10:10,481  INFO [main] BaseClass:51 - *****************Test Case Started***********************
- 2019-12-06 18:10:20,689  INFO [main] RegisterCredentials:159 - Step 1: Register user page is displayed.
- 2019-12-06 18:10:21,860  INFO [main] RegisterCredentials:165 - Step 2:Contact information is entered successfully
- 2019-12-06 18:10:22,990  INFO [main] RegisterCredentials:172 - Step 3:Mailing information is entered successfully
- 2019-12-06 18:10:23,668  INFO [main] RegisterCredentials:177 - Step 4: User Inforation is entered successfully
- 2019-12-06 18:10:25,891  INFO [main] RegisterCredentials:182 - Registered Successfully
- 2019-12-06 18:10:26,022  INFO [main] RegisterCredentials:32 - Note: Your user name is Gauth869792.
- 2019-12-06 18:10:26,280  INFO [main] BaseClass:77 - *****************Test Case Executed***********************
- 2019-12-06 18:10:27,219 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
- 2019-12-06 18:10:27,221 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
- 2019-12-06 18:10:27,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
- 2019-12-06 18:10:27,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
- 2019-12-06 18:10:27,228 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/a238540/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
- 2019-12-06 18:10:27,710 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
- 2019-12-06 18:10:27,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
- 2019-12-06 18:10:27,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
- 2019-12-06 18:10:27,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
- 2019-12-06 18:10:27,712 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/a238540/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-12 18:44:32,633  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2020-03-12 18:44:50,038  INFO [main] BookReturnCruiseTicket:27 - Step 1 - Clicked on Cruise Link
+ 2020-03-12 18:44:54,046  INFO [main] BookReturnCruiseTicket:29 - Step 2 - Click on Reservations of cruise Img
+ 2020-03-12 18:45:00,826  INFO [main] BookReturnCruiseTicket:31 - Step 3 - Assert if opened pageTitle is correct
+ 2020-03-12 18:45:00,844  INFO [main] BookReturnCruiseTicket:38 - Find a Flight: Mercury Tours: page is dispayed
+ 2020-03-12 18:45:00,844  INFO [main] BookReturnCruiseTicket:43 - Step 4-Check of the RoundTrip Radio button is selected
+ 2020-03-12 18:45:00,927  INFO [main] FindAFlightPage:113 - Selecting the Flight Details
+ 2020-03-12 18:45:16,349  INFO [main] FindAFlightPage:142 - Selecting the Preferences inclass com.edureka.project.ObjectRepo.FindAFlightPage
+ 2020-03-12 18:45:16,669  INFO [main] FindAFlightPage:155 - Clicking on Continue in Find a Flight page
+ 2020-03-12 18:45:18,361  INFO [main] BookReturnCruiseTicket:55 - Clicking on Continue in Select a Flight page
+ 2020-03-12 18:45:18,377  INFO [main] SelectAFlight:30 - Selected the flight
+ 2020-03-12 18:45:20,382  INFO [main] BookReturnCruiseTicket:61 - Asserting Book a Flight Title
+ 2020-03-12 18:45:20,390  INFO [main] BookReturnCruiseTicket:66 - Book a Flight: Mercury Toursis matching
+ 2020-03-12 18:45:20,391  INFO [main] BookAFlight:61 - Enter First Name
+ 2020-03-12 18:45:20,592  INFO [main] BookAFlight:64 - Enter Last Name
+ 2020-03-12 18:45:20,720  INFO [main] BookAFlight:67 - Enter Card Number
+ 2020-03-12 18:45:20,990  INFO [main] BookAFlight:70 - Click on Secure Purchase
+ 2020-03-12 18:45:22,611  INFO [main] BookReturnCruiseTicket:68 - Confirm if ticket is booked
+ 2020-03-12 18:45:22,659  INFO [main] BookReturnCruiseTicket:73 - Your itinerary has been booked!
+ 2020-03-12 18:45:23,761  INFO [main] BaseClass:66 - *****************Test Case Executed***********************
  
